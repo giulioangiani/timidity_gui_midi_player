@@ -158,5 +158,6 @@ completo, oppure <https://www.gnu.org/licenses/>.
 
 ## Autore
 
-Copyright (C) 2026 *&lt;Il Tuo Nome&gt;* — sostituisci con il tuo nome nei file
-`midi_player.py` (intestazione e dialogo "Informazioni") e in questo README.
+Copyright (C) 2026 *Giulio Angiani*
+
+Il software è stato sviluppato con l'ausilio di modelli intelligenti di generazione del codice
