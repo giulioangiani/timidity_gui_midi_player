@@ -1,0 +1,7 @@
+# Dipendenza Python (opzionale ma consigliata).
+# Serve per: seek (avvio da un punto), durata/avanzamento del brano,
+# ed estrazione del testo/karaoke dal MIDI.
+mido>=1.3
+
+# NOTA: timidity e Tkinter NON si installano con pip, sono pacchetti di sistema:
+#   sudo apt install timidity python3-tk

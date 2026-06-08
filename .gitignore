@@ -1,0 +1,23 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambienti virtuali
+.venv/
+venv/
+env/
+
+# Editor / IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# File dell'utente: la cartella dei brani e le playlist salvate
+# (rimuovi queste righe se invece vuoi versionarli)
+MIDI/
+*.m3u
